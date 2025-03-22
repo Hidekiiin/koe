@@ -1,5 +1,5 @@
 {
-  "name": "kaiware",
+  "name": "koe",
   "version": "1.0.0",
   "description": "A simple chat app using socket.io",
   "main": "server.js",
